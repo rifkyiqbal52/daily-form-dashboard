@@ -16,6 +16,6 @@ This project for Creating document or data submissions via Microsoft Forms for r
 - The parts that are made easier are the finance section, the membership section and participant services.
 
 ## Screenshots
-See `/images` folder for form and sheet views.
+image/EXCEL_SHEETS_PREVIEW.jpg.
 
 > ⚠️ Disclaimer: The actual Microsoft Form and Excel Sheet used in this project are not publicly accessible, as they were created under a company account that is now restricted. I am no longer part of the organization, so access cannot be provided.
